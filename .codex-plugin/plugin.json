@@ -1,0 +1,28 @@
+{
+  "name": "kiwiclip",
+  "version": "0.1.0",
+  "description": "Turn a web product -- including screens behind a login -- into a narrated, captioned demo walkthrough video.",
+  "author": {
+    "name": "Abhishek Chandra",
+    "email": "ac927920@gmail.com"
+  },
+  "homepage": "https://github.com/theabhishekchandra/kiwiclip",
+  "repository": "https://github.com/theabhishekchandra/kiwiclip",
+  "license": "MIT",
+  "keywords": ["video", "demo", "walkthrough", "skill", "product-demo"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "kiwiclip",
+    "shortDescription": "Turn your product into a narrated demo walkthrough video.",
+    "longDescription": "Record a real flow in your product -- including screens behind a login -- and turn it into a narrated, captioned demo walkthrough video with zoom/highlight annotations and ready-to-paste platform copy. Runs locally with your own credentials and API keys; never posts anywhere on its own.",
+    "developerName": "Abhishek Chandra",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write", "Execute"],
+    "websiteURL": "https://github.com/theabhishekchandra/kiwiclip",
+    "defaultPrompt": [
+      "Make a demo video of this product.",
+      "Record a walkthrough of this app.",
+      "Show how this feature works in a video."
+    ]
+  }
+}

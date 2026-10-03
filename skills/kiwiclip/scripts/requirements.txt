@@ -1,0 +1,11 @@
+playwright>=1.47
+requests>=2.32
+elevenlabs>=1.9
+openai>=1.50
+pyotp>=2.9
+
+# Optional, used only by privacy_scan.py if present. The script degrades
+# gracefully (warns and skips OCR) when these -- or the `tesseract` binary --
+# aren't installed.
+# pytesseract
+# Pillow

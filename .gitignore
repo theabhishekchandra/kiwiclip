@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+
+# Never commit local credentials or run output
+.kiwiclip/
+kiwiclip-output/
+kiwiclip-output-*/
+*.session/

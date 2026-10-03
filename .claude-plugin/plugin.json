@@ -1,0 +1,13 @@
+{
+  "name": "kiwiclip",
+  "description": "Turn a web product -- including screens behind a login -- into a narrated, captioned demo walkthrough video.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Abhishek Chandra",
+    "email": "ac927920@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/theabhishekchandra/kiwiclip",
+  "repository": "https://github.com/theabhishekchandra/kiwiclip",
+  "keywords": ["video", "demo", "walkthrough", "skill", "product-demo"]
+}

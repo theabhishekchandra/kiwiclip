@@ -1,0 +1,15 @@
+{
+  "name": "kiwiclip",
+  "description": "You built it. Now show how it works. Turn a product -- including screens behind a login -- into a narrated demo walkthrough video with one command.",
+  "owner": {
+    "name": "Abhishek Chandra",
+    "email": "ac927920@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "kiwiclip",
+      "source": "./",
+      "description": "Turn a web product into a narrated, captioned demo walkthrough video, plus ready-to-paste platform copy."
+    }
+  ]
+}

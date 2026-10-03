@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "kiwiclip",
+  "version": "0.1.0",
+  "description": "Turn a web product -- including screens behind a login -- into a narrated, captioned demo walkthrough video, plus ready-to-paste platform copy.",
+  "author": {
+    "name": "Abhishek Chandra",
+    "email": "ac927920@gmail.com"
+  },
+  "homepage": "https://github.com/theabhishekchandra/kiwiclip",
+  "repository": "https://github.com/theabhishekchandra/kiwiclip",
+  "license": "MIT",
+  "keywords": ["video", "demo", "walkthrough", "skill", "product-demo"]
+}
